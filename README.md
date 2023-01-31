@@ -1,3 +1,6 @@
+## Company Name: moneyForward
+https://storage.googleapis.com/studio-design-asset-files/projects/Z9qp7A67OP/s-247x44_392d9252-7133-4aa7-907e-861a536cd5ab.svg (https://recruit.moneyforward.com/) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
@@ -15,7 +18,7 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information. 
 
 ### `npm run build`
 
